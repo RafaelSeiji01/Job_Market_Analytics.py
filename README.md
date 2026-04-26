@@ -1,7 +1,8 @@
 # Job Trend Analytics & Scraper
 
 Um ecossistema em Python desenvolvido para análise inteligente do mercado de trabalho. O projeto vagas de emprego em tempo real via API.
-Projeto academico (Global Solutions)
+
+Projeto academico (Global Solutions) - desenvolvida em 2025.
 
 ## Objetivo do Projeto
 Este projeto foi criado para procurar vagas de empregos, podendo editar os campos de cargos e localização
