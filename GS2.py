@@ -24,8 +24,9 @@ def obterTendenciasEmprego(cargo, localizacao, pagina, numPaginas="10", dataPost
     }
 
     headers = {
-
-        "x-rapidapi-key": "8932f9f7bfmsh5ce13369c180ac9p105060jsn1b45c46f2e54 ",
+        #key da api
+        #ADICINE A SUA KEY NESSAS ASPAS
+        "x-rapidapi-key": "",
         "x-rapidapi-host": "jsearch.p.rapidapi.com"
     }
 
